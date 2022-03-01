@@ -1,0 +1,574 @@
+id: 10d52f8859834470be790d3df2040363
+annotation_type: index
+revision: '00001'
+annotations:
+  19221fb4738c4d21a0727829164b74c1:
+    work_id: WB27812CD
+    span:
+      vol: CIII_A1-9
+      start: 0
+      end: 56
+  aa65b88d615a4aa3b4a30e0aaeaf7c49:
+    work_id: W0CDA1CA6
+    span:
+      vol: CIII_A19-27
+      start: 0
+      end: 63
+  027ff39c73214529b3539955a5f6e678:
+    work_id: W1D3EE611
+    span:
+      vol: CIII_A9-18
+      start: 0
+      end: 70
+  4829ef19c6ff47c9bb27713c18f60d34:
+    work_id: WCC7754AC
+    span:
+      vol: CIII_Admission of wrongdoings
+      start: 0
+      end: 109
+  dbdc2578d8dd4b66b176db1eb18871ac:
+    work_id: W44D7C3A0
+    span:
+      vol: CIII_Agreement of a sick monk
+      start: 0
+      end: 168
+  9f372b786ccb42238ea9c89082656706:
+    work_id: W9B99DBAD
+    span:
+      vol: CIII_Antaroddāna
+      start: 0
+      end: 13
+  b141fabf4bd3414fb48600907aa3eae1:
+    work_id: W1A581457
+    span:
+      vol: CIII_B1-9
+      start: 0
+      end: 63
+  957b8869904745e1845e0502fe9cedee:
+    work_id: W18C03F28
+    span:
+      vol: CIII_B10-18
+      start: 0
+      end: 63
+  d02c8a701f474693980e8db449dfb729:
+    work_id: WF27E2D09
+    span:
+      vol: CIII_B19-27
+      start: 0
+      end: 63
+  582bddd984bc4643aebbf1d2bdaba636:
+    work_id: WE0053D8A
+    span:
+      vol: CIII_C1-9
+      start: 0
+      end: 63
+  4b71733d3f0f4dc380798acd96273528:
+    work_id: WE0F0697C
+    span:
+      vol: CIII_C10-18
+      start: 0
+      end: 63
+  0e4d4e0e3be24bb6b7bea37847af91f5:
+    work_id: W337B60F3
+    span:
+      vol: CIII_C19-27
+      start: 0
+      end: 7
+  aeb0acfd09b44c8a871c442ffedc8e9d:
+    work_id: WC42054CB
+    span:
+      vol: CIII_C20
+      start: 0
+      end: 7
+  08ae8604072540d488533956db3e21a8:
+    work_id: WB45F4FD3
+    span:
+      vol: CIII_C21
+      start: 0
+      end: 7
+  f2edbfa4a5114b90b31dc30980d38a5b:
+    work_id: W96424857
+    span:
+      vol: CIII_C22
+      start: 0
+      end: 7
+  bc960c91411a40f4be72110bebddc65b:
+    work_id: W29BF20A9
+    span:
+      vol: CIII_C23
+      start: 0
+      end: 7
+  3703d12ad85c4063a6153712e2e85b0c:
+    work_id: WEA3AEBFF
+    span:
+      vol: CIII_C24
+      start: 0
+      end: 7
+  5434f9cba89044d99a0e950902ba84bc:
+    work_id: W621747EC
+    span:
+      vol: CIII_C25
+      start: 0
+      end: 7
+  f24c30e34a6445b3bf9c8425f47e2deb:
+    work_id: W6F2BB291
+    span:
+      vol: CIII_C26
+      start: 0
+      end: 7
+  3b7320de22b8446da8764f79c00a6e40:
+    work_id: W42B5AFD4
+    span:
+      vol: CIII_C27
+      start: 0
+      end: 59
+  e8207242ca5747348ac72ce2756f4f43:
+    work_id: WE8505949
+    span:
+      vol: CIII_Captured by a king
+      start: 0
+      end: 64
+  abaeee7244e04ebd92b72f4a899566ec:
+    work_id: W30F8F69D
+    span:
+      vol: CIII_Date of Poṣadha
+      start: 0
+      end: 38
+  cb7c78f6b7a44a1cbe697d406c486393:
+    work_id: WB1556643
+    span:
+      vol: CIII_Definition of kriyā
+      start: 0
+      end: 22
+  391bc7548b82488ba5077795beec01b4:
+    work_id: WCC541245
+    span:
+      vol: CIII_Definition of poṣadha
+      start: 0
+      end: 24
+  d51c64d8df3d476d9c6099569a2d14a3:
+    work_id: W9AD71BAF
+    span:
+      vol: CIII_Kapphiṇa
+      start: 0
+      end: 108
+  f57d48c2249e4b948c1f727c44cf6add:
+    work_id: WB43C4B3A
+    span:
+      vol: CIII_Khuḍḍalikā Sīmā
+      start: 0
+      end: 217
+  192ae6f4ab9d43d586715df030d3b36c:
+    work_id: WDE353EA8
+    span:
+      vol: CIII_Mahatī Sīmā
+      start: 0
+      end: 120
+  098fd3c9aa5341f288821b475f13784c:
+    work_id: W6F9A7335
+    span:
+      vol: CIII_Monks spiritually hindered
+      start: 0
+      end: 50
+  4d5647f326944579a2709e4dcef22c2f:
+    work_id: W884529A3
+    span:
+      vol: CIII_Nidāna
+      start: 0
+      end: 20
+  a7e034f14fc84cbab630e1ae8807f40b:
+    work_id: W68667BDF
+    span:
+      vol: CIII_Persons who disturb the Poṣadha
+      start: 0
+      end: 7
+  5a5df737638948f1b065b13babe6283d:
+    work_id: W9D7CAA4C
+    span:
+      vol: CIII_Poṣadha for few monks, agreement
+      start: 0
+      end: 83
+  23a75ef961274a229b05018d623fd9d0:
+    work_id: W8A466545
+    span:
+      vol: CIII_Poṣadha for few monks, purity
+      start: 0
+      end: 84
+  77972f88ae534e47b9536a89a7092bee:
+    work_id: W7E8ABD1C
+    span:
+      vol: CIII_Poṣadhakarmāṇi
+      start: 0
+      end: 58
+  69fa76469e8f48fba119f4ff592daf8d:
+    work_id: W402A465C
+    span:
+      vol: CIII_Poṣadhāmukha
+      start: 0
+      end: 108
+  fdde97975517425eb68ca8c29dd2d63b:
+    work_id: W7C001041
+    span:
+      vol: CIII_Prātimokṣasūtroddeśāḥ
+      start: 0
+      end: 50
+  854cc70874314a4082494b2c8fbdcf6e:
+    work_id: W199E662D
+    span:
+      vol: CIII_Prātimokṣoddeśa
+      start: 0
+      end: 139
+  c30f2b571b3843a587a0c1a71e9ceba1:
+    work_id: W8A4DCE8E
+    span:
+      vol: CIII_Purity of a sick monk
+      start: 0
+      end: 103
+  2b9f69c9c43e41d286f3cacf27f7e261:
+    work_id: W002E0D56
+    span:
+      vol: CIII_Reception of learned monks
+      start: 0
+      end: 74
+  654345074c6a4f788779cd8951ee8784:
+    work_id: W664E787D
+    span:
+      vol: CIII_Relations of visiting and resident monks during the Poṣadha
+      start: 0
+      end: 641
+  9baff1dc698d4d6d8870d07fa38d1e1f:
+    work_id: W34024DB4
+    span:
+      vol: CIII_Saṃghasthavira recites
+      start: 0
+      end: 78
+  04362b0ae00f407ab67f1c5203d79082:
+    work_id: WB59CC56B
+    span:
+      vol: CIII_Sāntarbahirmukhī Sīmā
+      start: 0
+      end: 177
+  a86dcd58c17c4729a4832609c7fcd591:
+    work_id: W0746BF0E
+    span:
+      vol: CIII_Uddāna
+      start: 0
+      end: 8
+  3b170dec99cf4eeaa8053a2b4274c91c:
+    work_id: WA9D58ABB
+    span:
+      vol: CIII_Upālin
+      start: 0
+      end: 190
+  786c4c1c0b404c0d9505d9d2d794f46b:
+    work_id: W4AE7CB31
+    span:
+      vol: CIII_Where to go and not to go during the Poṣadha day
+      start: 0
+      end: 101
+  a810c11766c34b59affb39b90d3b5e54:
+    work_id: W5DA5D6BD
+    span:
+      vol: CIII_a1-8
+      start: 0
+      end: 48
+  426312422767414c9a27101985f22a74:
+    work_id: W1AF0A844
+    span:
+      vol: CIII_a1-9
+      start: 0
+      end: 56
+  97e58419adae4d5b85ffc99488551327:
+    work_id: W64544051
+    span:
+      vol: CIII_a10-21
+      start: 0
+      end: 69
+  4791552138314ef3b1e959e9b5b27dc9:
+    work_id: W40BD2720
+    span:
+      vol: CIII_b1-12
+      start: 0
+      end: 72
+  aac6250af5c74e5e90f034abd3a26764:
+    work_id: W041035FD
+    span:
+      vol: CIII_b1-8
+      start: 0
+      end: 50
+  a8261493548443158872302ba9354dd7:
+    work_id: W2D048D99
+    span:
+      vol: CIII_b17-23
+      start: 0
+      end: 44
+  a1e191a4a39045a69700b7e81851e08c:
+    work_id: WBB46966B
+    span:
+      vol: CIII_b9-16
+      start: 0
+      end: 59
+  7008382b34e04a37a165e93255b033c3:
+    work_id: WB6DC5BB2
+    span:
+      vol: CIII_c1-12
+      start: 0
+      end: 885
+  5e3e36aff6044151a8b8cc9a12631709:
+    work_id: WAA3A09C9
+    span:
+      vol: CIII_c1
+      start: 0
+      end: 6
+  f04b34dc2f38472c98059d986a7265c8:
+    work_id: WC49C4FF8
+    span:
+      vol: CIII_c10
+      start: 0
+      end: 6
+  be9ce11984e141ec83ff9026a25f2537:
+    work_id: W0375C266
+    span:
+      vol: CIII_c11
+      start: 0
+      end: 7
+  d8ea0eec3d18414aabd226ca800851c4:
+    work_id: W2AAE0EE3
+    span:
+      vol: CIII_c12
+      start: 0
+      end: 6
+  76e763a9deb84d868a13badef5aa8a6e:
+    work_id: W775BB4E3
+    span:
+      vol: CIII_c13
+      start: 0
+      end: 6
+  b4996b3df76f4f5a97de9d11ff748701:
+    work_id: W5AB61463
+    span:
+      vol: CIII_c14
+      start: 0
+      end: 6
+  a8d0d7136e6b4041974a9d76aa98791b:
+    work_id: WF2D929A9
+    span:
+      vol: CIII_c15
+      start: 0
+      end: 7
+  9578cbe46b164e39a9d2b0c14c218bcc:
+    work_id: W14739459
+    span:
+      vol: CIII_c16
+      start: 0
+      end: 6
+  aeab7a5de57d4175a2377a27110b30d6:
+    work_id: W2A1CC219
+    span:
+      vol: CIII_c17
+      start: 0
+      end: 6
+  118fdffd66a14a71b084e70ae8a4e420:
+    work_id: W5A0AC535
+    span:
+      vol: CIII_c18
+      start: 0
+      end: 6
+  3bcfcaf4d8af43a59ae6bdaed1870b7c:
+    work_id: WC79F9574
+    span:
+      vol: CIII_c19
+      start: 0
+      end: 7
+  b7f7bfbf714d46dc9d720e86a7805b48:
+    work_id: W9B3BBBB7
+    span:
+      vol: CIII_c2
+      start: 0
+      end: 6
+  1dcafa27d6a54f0d99ee6ebb8e85e8e4:
+    work_id: WB44416C3
+    span:
+      vol: CIII_c20
+      start: 0
+      end: 7
+  7467c11c832b4506bd134029da47d13a:
+    work_id: W2E7DDAE7
+    span:
+      vol: CIII_c21
+      start: 0
+      end: 6
+  a29eeeaf254746668e84bf408d47f257:
+    work_id: WC33D340F
+    span:
+      vol: CIII_c22
+      start: 0
+      end: 6
+  7f85fc3bdfbe4e25a241638236902633:
+    work_id: W40EA6E00
+    span:
+      vol: CIII_c23
+      start: 0
+      end: 7
+  a99af5feafa44157b9f9650bf396cc28:
+    work_id: W99471C84
+    span:
+      vol: CIII_c24
+      start: 0
+      end: 6
+  586725a9c3a5400d8544b89abb94b5ee:
+    work_id: W0602C126
+    span:
+      vol: CIII_c3
+      start: 0
+      end: 7
+  8a10853a5a2e4227b0cd425d72b2d9ee:
+    work_id: WAE7DC28E
+    span:
+      vol: CIII_c4
+      start: 0
+      end: 6
+  4eb7f357cb7349df9eb465907c601ada:
+    work_id: W85768646
+    span:
+      vol: CIII_c5
+      start: 0
+      end: 6
+  05a3c484855e49f28517af240a0d2d1d:
+    work_id: WB36BBBB2
+    span:
+      vol: CIII_c6
+      start: 0
+      end: 6
+  1d61d1067d6542ec8ec25072a1a79b71:
+    work_id: WDDDFB20F
+    span:
+      vol: CIII_c7
+      start: 0
+      end: 7
+  f6322e94da184747ad04436255babaec:
+    work_id: WDABA5A6A
+    span:
+      vol: CIII_c8
+      start: 0
+      end: 6
+  51a4f8aa59b642bba1c3cb73895f8085:
+    work_id: W7FDA2002
+    span:
+      vol: CIII_c9
+      start: 0
+      end: 6
+  2e7d9cfe80ec4012a9af5e9ec5ecc82b:
+    work_id: WCD732D74
+    span:
+      vol: CII_After meditation
+      start: 0
+      end: 52
+  c1192c141f7244f5bbff0e38d614cffa:
+    work_id: W89F3F115
+    span:
+      vol: CII_Choice
+      start: 0
+      end: 61
+  0920ddd7713645178ed00f980b300f1f:
+    work_id: W0910DC5D
+    span:
+      vol: CII_Dakṣiṇā
+      start: 0
+      end: 46
+  ccb8c1be109c46d09a87f5accc2c6f13:
+    work_id: W850D8955
+    span:
+      vol: CII_Definition of niṣadyā
+      start: 0
+      end: 26
+  288fff89e7364f0891513cd45ff45588:
+    work_id: W5B2D51EE
+    span:
+      vol: CII_Duties
+      start: 0
+      end: 2654
+  26a596da56644c9b9d41786ed3acd995:
+    work_id: WF398A933
+    span:
+      vol: CII_More meditation rooms
+      start: 0
+      end: 72
+  d2b0c26bce274badaca3233a1b85d201:
+    work_id: WAB3B209F
+    span:
+      vol: CII_Not sleeping
+      start: 0
+      end: 79
+  fb9285466dc540a382113266ff2eb1cf:
+    work_id: W9043F9AC
+    span:
+      vol: CII_Ordering of niṣadyā, kriyā and poṣadha
+      start: 0
+      end: 297
+  5515041afbbb4b51a23d216502368012:
+    work_id: W0069FDC4
+    span:
+      vol: CII_Place of meditation
+      start: 0
+      end: 78
+  f256d1a886704848825f6a632abd3c05:
+    work_id: W90998EFA
+    span:
+      vol: CII_Prahāṇapratijāgraka, more
+      start: 0
+      end: 132
+  6a6147e97751468ea8a67dcbbca0087a:
+    work_id: WB3453D84
+    span:
+      vol: CII_Prahāṇaśālā
+      start: 0
+      end: 114
+  0280f82831f8445182e4dc4db0216a3e:
+    work_id: W6D670B68
+    span:
+      vol: CII_Qualities
+      start: 0
+      end: 45
+  855285398b7048deb776e78b8e3f14a8:
+    work_id: W799091C2
+    span:
+      vol: CII_Resting
+      start: 0
+      end: 27
+  271d93f427b049e69f9d8948ad8a4922:
+    work_id: W4A150770
+    span:
+      vol: CII_Rules for meditation
+      start: 0
+      end: 46
+  ec30d100791a4200ae945c72c7d07184:
+    work_id: WB23D00BD
+    span:
+      vol: CII_The gong
+      start: 0
+      end: 43
+  4560161aceef49fb97787e896b66b271:
+    work_id: W8394799C
+    span:
+      vol: CII_Tṛdaṇḍaka
+      start: 0
+      end: 61
+  2e9607fc3920430b9ebb4956ee6cb7e1:
+    work_id: WA3F1FA4F
+    span:
+      vol: CII_Āsana
+      start: 0
+      end: 59
+  8b5cbcf79ec740cbb8a3f9c94692005b:
+    work_id: WA10D38E4
+    span:
+      vol: CI_Uddāna
+      start: 0
+      end: 137
+  54de03eb586545f9ab61f8d5d3163cdf:
+    work_id: W57D45C24
+    span:
+      vol: Introduction
+      start: 0
+      end: 97

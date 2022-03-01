@@ -1,0 +1,392 @@
+id: PAB5CA75E
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,02: Poṣadhavastu'
+  language: bo
+  volumes:
+    699c1eb30a3842abbb22797d8ff44d96:
+      title: CIII_A1-9
+      base_file: CIII_A1-9.txt
+      work_id: WB27812CD
+    10941f8708894447a82933d59f6e5e7e:
+      title: CIII_A19-27
+      base_file: CIII_A19-27.txt
+      work_id: W0CDA1CA6
+    4b1bf525f786485f9a744e9533145a1b:
+      title: CIII_A9-18
+      base_file: CIII_A9-18.txt
+      work_id: W1D3EE611
+    696f7057875d4b4c959425a9a608ed88:
+      title: CIII_Admission of wrongdoings
+      base_file: CIII_Admission of wrongdoings.txt
+      work_id: WCC7754AC
+    ebc7ff80855d42c2b5156bfac8416831:
+      title: CIII_Agreement of a sick monk
+      base_file: CIII_Agreement of a sick monk.txt
+      work_id: W44D7C3A0
+    a1c9d54eac9a47e2a0da12b247721d3a:
+      title: CIII_Antaroddāna
+      base_file: CIII_Antaroddāna.txt
+      work_id: W9B99DBAD
+    5e1f4d9607284d92ad3a3ad7a1fc078e:
+      title: CIII_B1-9
+      base_file: CIII_B1-9.txt
+      work_id: W1A581457
+    a27df920cb1548e492ca5525b5d925b4:
+      title: CIII_B10-18
+      base_file: CIII_B10-18.txt
+      work_id: W18C03F28
+    95ebda90ae7b46799ef8b40eaf06027a:
+      title: CIII_B19-27
+      base_file: CIII_B19-27.txt
+      work_id: WF27E2D09
+    db109a1954e84dafa4399eb4e1f64237:
+      title: CIII_C1-9
+      base_file: CIII_C1-9.txt
+      work_id: WE0053D8A
+    7c098b70768e4084a0624e654aac4a5c:
+      title: CIII_C10-18
+      base_file: CIII_C10-18.txt
+      work_id: WE0F0697C
+    15dd3d5d922d4199ae8f7a94539cdee0:
+      title: CIII_C19-27
+      base_file: CIII_C19-27.txt
+      work_id: W337B60F3
+    2238f5dc186a42eaa74c68af8a6e84b8:
+      title: CIII_C20
+      base_file: CIII_C20.txt
+      work_id: WC42054CB
+    6d3f99c589ec4249865b43542b731013:
+      title: CIII_C21
+      base_file: CIII_C21.txt
+      work_id: WB45F4FD3
+    8c4bcbc6b81b418692f1164008823181:
+      title: CIII_C22
+      base_file: CIII_C22.txt
+      work_id: W96424857
+    cd367c6db024407cb4592874fae47b88:
+      title: CIII_C23
+      base_file: CIII_C23.txt
+      work_id: W29BF20A9
+    782c3b71068e4875ac4d6af54c3fce70:
+      title: CIII_C24
+      base_file: CIII_C24.txt
+      work_id: WEA3AEBFF
+    5a1c1c87bd9741f0b2f000ee7555d5b4:
+      title: CIII_C25
+      base_file: CIII_C25.txt
+      work_id: W621747EC
+    fb917a9a0690468f927344cfb7bda54c:
+      title: CIII_C26
+      base_file: CIII_C26.txt
+      work_id: W6F2BB291
+    4a172b7993624711aff7e631382dfefb:
+      title: CIII_C27
+      base_file: CIII_C27.txt
+      work_id: W42B5AFD4
+    11919ba1b178483ca263756f443b4b9e:
+      title: CIII_Captured by a king
+      base_file: CIII_Captured by a king.txt
+      work_id: WE8505949
+    21e017ec1faa42e5bde0d073b9550d03:
+      title: CIII_Date of Poṣadha
+      base_file: CIII_Date of Poṣadha.txt
+      work_id: W30F8F69D
+    f6f45d6bdf8b4def971ee765443cc551:
+      title: CIII_Definition of kriyā
+      base_file: CIII_Definition of kriyā.txt
+      work_id: WB1556643
+    e727538e1341493ca9f108b5ef680d8b:
+      title: CIII_Definition of poṣadha
+      base_file: CIII_Definition of poṣadha.txt
+      work_id: WCC541245
+    6df6916de44c40c89c6efaa55003184a:
+      title: CIII_Kapphiṇa
+      base_file: CIII_Kapphiṇa.txt
+      work_id: W9AD71BAF
+    f12e0a3d9d764eb792cf0e34d46e7e3e:
+      title: CIII_Khuḍḍalikā Sīmā
+      base_file: CIII_Khuḍḍalikā Sīmā.txt
+      work_id: WB43C4B3A
+    36c71ee9cc0c49ad9e9a3aa84aa2c4bf:
+      title: CIII_Mahatī Sīmā
+      base_file: CIII_Mahatī Sīmā.txt
+      work_id: WDE353EA8
+    8cdf2cadf632445dbb088f325465c2cd:
+      title: CIII_Monks spiritually hindered
+      base_file: CIII_Monks spiritually hindered.txt
+      work_id: W6F9A7335
+    e620b490c2e6442b8d8d7731170ed81a:
+      title: CIII_Nidāna
+      base_file: CIII_Nidāna.txt
+      work_id: W884529A3
+    2ec8c30b25b04d049473be621f392a17:
+      title: CIII_Persons who disturb the Poṣadha
+      base_file: CIII_Persons who disturb the Poṣadha.txt
+      work_id: W68667BDF
+    905cbc6be6e545f6b959eb2382089833:
+      title: CIII_Poṣadha for few monks, agreement
+      base_file: CIII_Poṣadha for few monks, agreement.txt
+      work_id: W9D7CAA4C
+    fe6af4dd52cc4d0aa0858ec5c817a8fc:
+      title: CIII_Poṣadha for few monks, purity
+      base_file: CIII_Poṣadha for few monks, purity.txt
+      work_id: W8A466545
+    ac4ae431a31045a99672c706dc9ffb48:
+      title: CIII_Poṣadhakarmāṇi
+      base_file: CIII_Poṣadhakarmāṇi.txt
+      work_id: W7E8ABD1C
+    87cf3e36fd1e4fddbf6e97438a4cf889:
+      title: CIII_Poṣadhāmukha
+      base_file: CIII_Poṣadhāmukha.txt
+      work_id: W402A465C
+    26433c1ed4fd4d6fac8481fb4290d45d:
+      title: CIII_Prātimokṣasūtroddeśāḥ
+      base_file: CIII_Prātimokṣasūtroddeśāḥ.txt
+      work_id: W7C001041
+    6e036e11924541a987b2c711f3ec93c1:
+      title: CIII_Prātimokṣoddeśa
+      base_file: CIII_Prātimokṣoddeśa.txt
+      work_id: W199E662D
+    c8982d1b9ba841dcb93809742decb877:
+      title: CIII_Purity of a sick monk
+      base_file: CIII_Purity of a sick monk.txt
+      work_id: W8A4DCE8E
+    0bb6aa1feb454df5b8058594f0c67c83:
+      title: CIII_Reception of learned monks
+      base_file: CIII_Reception of learned monks.txt
+      work_id: W002E0D56
+    1e166cf582f24222ae568f64ac4c9084:
+      title: CIII_Relations of visiting and resident monks during the Poṣadha
+      base_file: CIII_Relations of visiting and resident monks during the Poṣadha.txt
+      work_id: W664E787D
+    3439f196e5914b4da81f14bf50306a48:
+      title: CIII_Saṃghasthavira recites
+      base_file: CIII_Saṃghasthavira recites.txt
+      work_id: W34024DB4
+    368f1098419b487da310acbd2265b400:
+      title: CIII_Sāntarbahirmukhī Sīmā
+      base_file: CIII_Sāntarbahirmukhī Sīmā.txt
+      work_id: WB59CC56B
+    3dbda193b5b24a7aaf60b7259417c8b0:
+      title: CIII_Uddāna
+      base_file: CIII_Uddāna.txt
+      work_id: W0746BF0E
+    80612530b12b42a1975ff91fb15fd717:
+      title: CIII_Upālin
+      base_file: CIII_Upālin.txt
+      work_id: WA9D58ABB
+    d7446431e7524d5682e63052384b4b2f:
+      title: CIII_Where to go and not to go during the Poṣadha day
+      base_file: CIII_Where to go and not to go during the Poṣadha day.txt
+      work_id: W4AE7CB31
+    c221e26864344921bce7c7fd03d884e0:
+      title: CIII_a1-8
+      base_file: CIII_a1-8.txt
+      work_id: W5DA5D6BD
+    ba3f3b5fdb1a4d8985b735849d29d5ed:
+      title: CIII_a1-9
+      base_file: CIII_a1-9.txt
+      work_id: W1AF0A844
+    b6029368e20c4e3d8f90fe7a7a9ee787:
+      title: CIII_a10-21
+      base_file: CIII_a10-21.txt
+      work_id: W64544051
+    52fd06c3696841ffb13f43b22daf6e14:
+      title: CIII_b1-12
+      base_file: CIII_b1-12.txt
+      work_id: W40BD2720
+    0e34179994314c9c8b5484069b735fa6:
+      title: CIII_b1-8
+      base_file: CIII_b1-8.txt
+      work_id: W041035FD
+    f0e6104efdd440b48de49e28fb27f2aa:
+      title: CIII_b17-23
+      base_file: CIII_b17-23.txt
+      work_id: W2D048D99
+    e8448265d98e4be2a88c3476ddb55605:
+      title: CIII_b9-16
+      base_file: CIII_b9-16.txt
+      work_id: WBB46966B
+    7cf8d985a5f34eda827b62a01bf7daef:
+      title: CIII_c1-12
+      base_file: CIII_c1-12.txt
+      work_id: WB6DC5BB2
+    ba61a2dad006490084cede2648a05d25:
+      title: CIII_c1
+      base_file: CIII_c1.txt
+      work_id: WAA3A09C9
+    2a44053dfa52497c99e36950bc50adcc:
+      title: CIII_c10
+      base_file: CIII_c10.txt
+      work_id: WC49C4FF8
+    60f1b59097c7458fba659749443f41b0:
+      title: CIII_c11
+      base_file: CIII_c11.txt
+      work_id: W0375C266
+    a8d236b23a91404f885b09cf2ca891f2:
+      title: CIII_c12
+      base_file: CIII_c12.txt
+      work_id: W2AAE0EE3
+    9d50c6b5239445f29ede907b1d613799:
+      title: CIII_c13
+      base_file: CIII_c13.txt
+      work_id: W775BB4E3
+    07ebe664564e4df49e3002e5c73735da:
+      title: CIII_c14
+      base_file: CIII_c14.txt
+      work_id: W5AB61463
+    4e1bfde080f248e8b87d1aaf16507a38:
+      title: CIII_c15
+      base_file: CIII_c15.txt
+      work_id: WF2D929A9
+    6e596fcee49e490fb22d1ed3441f42a9:
+      title: CIII_c16
+      base_file: CIII_c16.txt
+      work_id: W14739459
+    023c0c17c074436e95899fa5a132a4fa:
+      title: CIII_c17
+      base_file: CIII_c17.txt
+      work_id: W2A1CC219
+    eee606d27f524af9bedb4883033b1bba:
+      title: CIII_c18
+      base_file: CIII_c18.txt
+      work_id: W5A0AC535
+    955b58c47d7d4252a8475a828c900de8:
+      title: CIII_c19
+      base_file: CIII_c19.txt
+      work_id: WC79F9574
+    600b165c9c2644e7a578a4f92d80b4f9:
+      title: CIII_c2
+      base_file: CIII_c2.txt
+      work_id: W9B3BBBB7
+    4144f88cb0124eccbd17cfb3b7031d2a:
+      title: CIII_c20
+      base_file: CIII_c20.txt
+      work_id: WB44416C3
+    65cbb3e91d7943b3961fe3ddd4267112:
+      title: CIII_c21
+      base_file: CIII_c21.txt
+      work_id: W2E7DDAE7
+    28793e53133a4928be2e7b29c570a4c1:
+      title: CIII_c22
+      base_file: CIII_c22.txt
+      work_id: WC33D340F
+    12095bd073d24f7bbe000de6064bd070:
+      title: CIII_c23
+      base_file: CIII_c23.txt
+      work_id: W40EA6E00
+    fbbe32f7d8b744a4b7134e62293a9eed:
+      title: CIII_c24
+      base_file: CIII_c24.txt
+      work_id: W99471C84
+    96f40ec972be45718a97b3fd4ecf2743:
+      title: CIII_c3
+      base_file: CIII_c3.txt
+      work_id: W0602C126
+    3f17b698218f4327be8090e41858bd91:
+      title: CIII_c4
+      base_file: CIII_c4.txt
+      work_id: WAE7DC28E
+    1bb1d3fdb89b4a2aaa5ad3970427d754:
+      title: CIII_c5
+      base_file: CIII_c5.txt
+      work_id: W85768646
+    7243e346d427499eb96ac1215e576680:
+      title: CIII_c6
+      base_file: CIII_c6.txt
+      work_id: WB36BBBB2
+    75cdca1127de4d0cb9c35c197d561708:
+      title: CIII_c7
+      base_file: CIII_c7.txt
+      work_id: WDDDFB20F
+    2751412d11f144a185f9e65eb7fce387:
+      title: CIII_c8
+      base_file: CIII_c8.txt
+      work_id: WDABA5A6A
+    a8d8afcf5ce04e9fae56f03fe9043eb5:
+      title: CIII_c9
+      base_file: CIII_c9.txt
+      work_id: W7FDA2002
+    37f2ed9b437a4da387cab48e5cd6646b:
+      title: CII_After meditation
+      base_file: CII_After meditation.txt
+      work_id: WCD732D74
+    7cb711e7c5704c2d955e1d5ea2dca21a:
+      title: CII_Choice
+      base_file: CII_Choice.txt
+      work_id: W89F3F115
+    f76cd87ab28c4211a8cc4e435e1ed9f8:
+      title: CII_Dakṣiṇā
+      base_file: CII_Dakṣiṇā.txt
+      work_id: W0910DC5D
+    84014dbdef104aaabe4ca7f1901ff0e8:
+      title: CII_Definition of niṣadyā
+      base_file: CII_Definition of niṣadyā.txt
+      work_id: W850D8955
+    0acd711e55264024bf12eee8789f5b0a:
+      title: CII_Duties
+      base_file: CII_Duties.txt
+      work_id: W5B2D51EE
+    0b14fba6f11345a9867f91d02a861c45:
+      title: CII_More meditation rooms
+      base_file: CII_More meditation rooms.txt
+      work_id: WF398A933
+    1b7885390c2b4b42a4998e99691778c4:
+      title: CII_Not sleeping
+      base_file: CII_Not sleeping.txt
+      work_id: WAB3B209F
+    b9dcb4b791fe4fef86dec6d912fa8938:
+      title: CII_Ordering of niṣadyā, kriyā and poṣadha
+      base_file: CII_Ordering of niṣadyā, kriyā and poṣadha.txt
+      work_id: W9043F9AC
+    8c6f1e177f574d1bb27206333b254f85:
+      title: CII_Place of meditation
+      base_file: CII_Place of meditation.txt
+      work_id: W0069FDC4
+    2fabd42178d748d183806de7fa171f07:
+      title: CII_Prahāṇapratijāgraka, more
+      base_file: CII_Prahāṇapratijāgraka, more.txt
+      work_id: W90998EFA
+    b49645b8a02a4cf5b0199329331d98aa:
+      title: CII_Prahāṇaśālā
+      base_file: CII_Prahāṇaśālā.txt
+      work_id: WB3453D84
+    00b3c7cd2fd446389e08bba75b73730c:
+      title: CII_Qualities
+      base_file: CII_Qualities.txt
+      work_id: W6D670B68
+    d46f62f6679b4392bce9585cc1bd112c:
+      title: CII_Resting
+      base_file: CII_Resting.txt
+      work_id: W799091C2
+    d52f312000df40bea0a7cb742e07dbf5:
+      title: CII_Rules for meditation
+      base_file: CII_Rules for meditation.txt
+      work_id: W4A150770
+    5bd4233540b24ca89036b505cc39fdf0:
+      title: CII_The gong
+      base_file: CII_The gong.txt
+      work_id: WB23D00BD
+    3c52948d82ad49cda548ff4b01fcad95:
+      title: CII_Tṛdaṇḍaka
+      base_file: CII_Tṛdaṇḍaka.txt
+      work_id: W8394799C
+    71834a567d304856b444f811781947ca:
+      title: CII_Āsana
+      base_file: CII_Āsana.txt
+      work_id: WA3F1FA4F
+    2a8470b1ed0f4cefa00f2548d2791011:
+      title: CI_Uddāna
+      base_file: CI_Uddāna.txt
+      work_id: WA10D38E4
+    7db2eaea95314e8e949a3cf701b34c6a:
+      title: Introduction
+      base_file: Introduction.txt
+      work_id: W57D45C24
+  chapter_to_tile:
+    CI: Piṇḍoddāna
+    CII: 'Chapter I: Niṣadyā'
+    CIII: 'Chapter II: Kriyā and Poṣadha'
+created_at: '2022-03-01T22:13:26.686514'
+last_modified_at: '2022-03-01T22:13:26.686524'
